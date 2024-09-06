@@ -55,7 +55,7 @@ const music_list = [
         img :"./Rainha.jpeg",
         name : "Tiro de 12",
         artist : "Rainha Musical, Tiro de 12",
-        music : "./Tiro de 12.mp3"
+        music : "./Tiro de 12 .mp3"
     },
 
 ];
